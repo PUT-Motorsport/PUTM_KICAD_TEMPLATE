@@ -1,0 +1,5 @@
+# KiCad
+/template/*-backups/
+/template/*.kicad_prl
+/template/fp-info-cache
+/template/\#auto_saved_files\#
