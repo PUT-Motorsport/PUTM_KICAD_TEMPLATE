@@ -1,5 +1,5 @@
 # KiCad
-/template/*-backups/
-/template/*.kicad_prl
-/template/fp-info-cache
-/template/\#auto_saved_files\#
+/template/PUT_Motorsport/putm_kicad_template-backups/
+/template/PUT_Motorsport/putm_kicad_template.kicad_prl
+/template/PUT_Motorsport/fp-info-cache
+/template/PUT_Motorsport/\#auto_saved_files\#
