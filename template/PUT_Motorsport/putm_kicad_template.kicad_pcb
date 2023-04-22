@@ -20,6 +20,7 @@
     (37 "F.SilkS" user "F.Silkscreen")
     (38 "B.Mask" user)
     (39 "F.Mask" user)
+    (40 "Dwgs.User" user "User.Drawings")
     (41 "Cmts.User" user "User.Comments")
     (44 "Edge.Cuts" user)
     (45 "Margin" user)
@@ -82,7 +83,7 @@
     )
   )
 
-  (property "REVISION" "0.1.0")
+  (property "REVISION" "1.0")
 
   (net 0 "")
 
@@ -234,7 +235,7 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp c8564518-fb31-44e3-bd09-9ffac4829823))
   (gr_arc (start 174 76) (mid 175.414214 76.585786) (end 176 78)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp cacf977d-3987-4730-9f9e-ebaf1e9fd86c))
-  (gr_text "Rev: ${REVISION}" (at 142 113) (layer "F.SilkS") (tstamp 7aec6c76-b5f7-446f-9417-fb725641127b)
+  (gr_text "Rev: ${REVISION}" (at 143 113) (layer "F.SilkS") (tstamp 7aec6c76-b5f7-446f-9417-fb725641127b)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
   (dimension (type aligned) (layer "Cmts.User") (tstamp 3cbe8ec4-7568-4757-b842-a71f9ec257dd)

@@ -185,11 +185,11 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.5,
+          "diameter": 0.56,
           "drill": 0.3
         },
         {
-          "diameter": 0.75,
+          "diameter": 0.76,
           "drill": 0.5
         },
         {
@@ -440,8 +440,8 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
-        "via_diameter": 0.75,
-        "via_drill": 0.5,
+        "via_diameter": 0.56,
+        "via_drill": 0.3,
         "wire_width": 6
       }
     ],
@@ -512,6 +512,6 @@
     ]
   ],
   "text_variables": {
-    "REVISION": "0.1.0"
+    "REVISION": "1.0"
   }
 }
