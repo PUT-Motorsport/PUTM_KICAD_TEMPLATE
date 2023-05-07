@@ -235,8 +235,11 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp c8564518-fb31-44e3-bd09-9ffac4829823))
   (gr_arc (start 174 76) (mid 175.414214 76.585786) (end 176 78)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp cacf977d-3987-4730-9f9e-ebaf1e9fd86c))
-  (gr_text "Rev: ${REVISION}" (at 143 113) (layer "F.SilkS") (tstamp 7aec6c76-b5f7-446f-9417-fb725641127b)
-    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
+  (gr_text "Template" (at 146 112) (layer "F.SilkS") (tstamp 5ba3910d-c4f2-472e-8687-e99a4b526b88)
+    (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify bottom))
+  )
+  (gr_text "v${REVISION}" (at 146 114) (layer "F.SilkS") (tstamp 7aec6c76-b5f7-446f-9417-fb725641127b)
+    (effects (font (size 1 1) (thickness 0.15)) (justify bottom))
   )
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 3cbe8ec4-7568-4757-b842-a71f9ec257dd)
     (pts (xy 121 81) (xy 171 81))
@@ -257,4 +260,10 @@
     (style (thickness 0.15) (arrow_length 1.27) (text_position_mode 1) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
   )
 
+  (group "" (id 423d4aa3-e0ae-4d5e-8b84-ecca8a4a8613)
+    (members
+      5ba3910d-c4f2-472e-8687-e99a4b526b88
+      7aec6c76-b5f7-446f-9417-fb725641127b
+    )
+  )
 )
