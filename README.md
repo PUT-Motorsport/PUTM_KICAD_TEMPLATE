@@ -9,7 +9,7 @@ This repository contains a KiCad template meant to be used as a base for startin
     - Windows: *%HOMEPATH%\Documents\KiCad\7.0\template*
     - Linux: *~/.local/share/kicad/7.0/template*
 
-1. From the main menubar select *File → New Project from Template…*, next click on the **User Templates** tab, and choose the **PUT Motorsport** template.
+1. From the main menu select *File → New Project from Template…*, next click on the **User Templates** tab, and choose the **PUT Motorsport** template.
 
 ## License
 
